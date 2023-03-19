@@ -1,0 +1,11 @@
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\bin\Debug\labsemana1_ejercicio3.exe.config
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\bin\Debug\labsemana1_ejercicio3.exe
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\bin\Debug\labsemana1_ejercicio3.pdb
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.csproj.AssemblyReference.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.Form1.resources
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.Properties.Resources.resources
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.csproj.GenerateResource.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.exe
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio3\labsemana1_ejercicio3\obj\Debug\labsemana1_ejercicio3.pdb
