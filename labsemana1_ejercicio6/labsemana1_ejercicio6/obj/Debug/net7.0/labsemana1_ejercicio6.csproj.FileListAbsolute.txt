@@ -1,0 +1,15 @@
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\bin\Debug\net7.0\labsemana1_ejercicio6.exe
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\bin\Debug\net7.0\labsemana1_ejercicio6.deps.json
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\bin\Debug\net7.0\labsemana1_ejercicio6.runtimeconfig.json
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\bin\Debug\net7.0\labsemana1_ejercicio6.dll
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\bin\Debug\net7.0\labsemana1_ejercicio6.pdb
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.csproj.AssemblyReference.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.AssemblyInfoInputs.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.AssemblyInfo.cs
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.dll
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\refint\labsemana1_ejercicio6.dll
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.pdb
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\labsemana1_ejercicio6.genruntimeconfig.cache
+C:\Users\noris\TareaAlgoritmos\VideoEjemplo\labsemana1_ejercicio6\labsemana1_ejercicio6\obj\Debug\net7.0\ref\labsemana1_ejercicio6.dll
